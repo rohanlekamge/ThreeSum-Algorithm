@@ -1,0 +1,2 @@
+# ThreeSum-Algorithm
+The ThreeSum class provides static methods for counting and printing the number of triples in an array of integers that sum to 0 (ignoring integer overflow). This implementation uses a triply nested loop and takes proportional to n^3, where n is the number of integers.  For additional documentation, see Section 1.4 of Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne.
